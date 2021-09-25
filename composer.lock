@@ -28,6 +28,7 @@
             "require-dev": {
                 "phpunit/phpunit": "@stable"
             },
+            
             "type": "project",
             "autoload": {
                 "psr-4": {
